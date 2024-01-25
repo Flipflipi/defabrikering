@@ -6,6 +6,7 @@ body {
     background-position: center;
     background-size: cover;
     background-color: bisque;
+    background-attachment: fixed;
 }
 
 main {
