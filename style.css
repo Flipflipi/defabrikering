@@ -8,6 +8,10 @@ body {
     background-color: bisque;
 }
 
+main {
+    height: 100%;
+}
+
 html, body {
     height: 100%;
     margin: 0%;
@@ -26,24 +30,25 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100%;
 }
 
 #logo {
     max-width: 200px;
-    margin: 30px;
-    margin-top: 60px;
+    margin: 10%;
+    margin-top: 20%;
 }
 
 #brand {
-    align-self: middle;
     max-width: 280px;
 }
 
 #rbutton {
     min-width: 100px;
-    margin-top: 90px;
+    margin-top: 60%;
 }
 
 #skip{
-    margin: 20px;
+    margin: 5%;
+    color: black;
 }
